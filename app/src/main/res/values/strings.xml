@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteTaker</string>
+    <string name="note_title">Title</string>
+    <string name="date_created">2020-03-05</string>
+    <string name="addNotes">AddNote</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="note_desc">this is description anout note</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+
+</resources>
